@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub profile!
 
-<!--
-**iloomilo/iloomilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+Hi, I'm a passionate developer with experience in backend, frontend, and game development. I enjoy building robust applications and exploring creative solutions to complex problems. Here's a bit more about what I do:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+#### Backend
+- **PHP** (Symfony Framework)  
+- **SQL & MongoDB**  
+
+#### Frontend
+- **Vue 3**  
+- **TypeScript & JavaScript**  
+- **Tailwind CSS**  
+
+#### Game Development
+- **alt:V Multiplayer Framework**  
+
+---
+
+### 🌱 Current Interests
+I'm always looking to improve my skills, contribute to exciting projects, and explore new technologies. Right now, I'm particularly interested in:
+- Building performant web applications with modern frameworks
+- Enhancing multiplayer game development with **alt:V**  
+- Learning more about scalability and database optimization
+
+---
+
+### 🔗 Get in Touch
+- 💻 Check out my repositories to see what I’m working on!  
+- 📬 Feel free to reach out to me via [LinkedIn/Your Preferred Platform].  
+
+---
+
+🚀 Thanks for stopping by, and I hope you find something interesting here!
