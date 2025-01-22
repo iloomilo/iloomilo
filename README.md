@@ -10,7 +10,7 @@ Hi there! I'm a passionate developer with experience in building scalable and hi
 #### 💻 **Backend Development**
 - **PHP** (Vanilla PHP & Symfony Framework)
 - **SQL** & **MongoDB** (Database design, optimization, and scalability)
-- **Node.js** (Backend development, APIs)
+- **Node.js** 
 
 #### 🌐 **Frontend Development**
 - **Vue 3** (Modern frontend development)
