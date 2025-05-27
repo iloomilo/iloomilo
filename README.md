@@ -11,6 +11,9 @@ Hi there! I'm a passionate developer with experience in building scalable and hi
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/>
 </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://images.icon-icons.com/2699/PNG/512/docker_logo_icon_170244.png" alt="docker" width="40" height="40"/>
+</a>
 </p>
 
 ---
