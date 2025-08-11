@@ -85,7 +85,7 @@ Hi there! I'm a passionate developer with experience in building scalable and hi
 Currently, I’m focused on:
 
 - Developing **performant, scalable web applications** using modern frameworks.
-- Working with **alt:V** for building custom **game servers**.
+- Working with **alt:V** and **FiveM** for building custom **game servers**.
 
 ---
 
